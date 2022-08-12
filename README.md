@@ -1,5 +1,5 @@
  
-# Automação Ruby + Cucumber
+# Automação Ruby + Cucumber : Avaliação Final
 O projeto de trata de uma automação web em ruby + cucumber para testes.
 ## 🚀 Começando
 Baixe o projeto clicando em "code" e depois em "download zip"
